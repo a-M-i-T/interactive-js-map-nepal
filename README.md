@@ -1,7 +1,7 @@
 # Interactive Js Map of Nepal
 - Lightweight Js Plugin
 
-![jsmap](.gif)
+![jsmap](https://raw.githubusercontent.com/a-M-i-T/interactive-js-map-nepal/main/interactive-js-map.gif)
 
 # Usage
 
